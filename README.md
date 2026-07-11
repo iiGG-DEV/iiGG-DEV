@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1><a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Loading GIF"></a> Booldy <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Loading GIF"></a></h1>
+  <h1><a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Loading GIF"></a> iiGG <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="Loading GIF"></a></h1>
   
   <p align="center">
     <a href="https://skillicons.dev">
@@ -11,7 +11,7 @@
 <hr />
 
 <div align='center'>
-<img alt="PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=FatBolid&style=for-the-badge&color=222222">
+<img alt="PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=iiGG-DEV&style=for-the-badge&color=222222">
 </div>
 
 <div align='center'>
