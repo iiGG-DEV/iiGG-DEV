@@ -11,7 +11,7 @@
 
 [![Website](https://img.shields.io/badge/iigg.dev-141A2C?style=for-the-badge&logo=firefoxbrowser&logoColor=B8F53A)](https://iigg.dev)
 [![Email](https://img.shields.io/badge/contact@iigg.dev-141A2C?style=for-the-badge&logo=gmail&logoColor=B8F53A)](mailto:contact@iigg.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-141A2C?style=for-the-badge&logo=linkedin&logoColor=B8F53A)](https://www.linkedin.com/in/dawid-golebiewski)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141A2C?style=for-the-badge&logo=linkedin&logoColor=B8F53A)](https://www.linkedin.com/in/iigg-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-141A2C?style=for-the-badge&logo=github&logoColor=B8F53A)](https://github.com/iiGG-DEV)
 [![Discord](https://img.shields.io/badge/Discord-141A2C?style=for-the-badge&logo=discord&logoColor=B8F53A)](https://discord.gg/joseph_goldberg)
 
