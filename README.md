@@ -74,8 +74,8 @@ IT & Security · Web · AI Automations
 ## 📌 Featured Projects (Coming soon.)
 
 | Project | Description | Tech Stack |
-|----|---|----|
-| **[workflow-engine](https://github.com/iiGG-DEV/workflow-engine)** | Business Process Automation Platform - workflow editor, integrations, and scheduling | `Java` · `Automation` |
+|---|---|---|
+| **[workflow-engine](https://github.com/iiGG-DEV/workflow-engine)** | Business Process Automation Platform - workflow editor, integrations, scheduling | `Java` · `Automation` |
 | **[ai-email-assistant](https://github.com/iiGG-DEV/ai-email-assistant)** | AI-powered email generation and analysis system | `TypeScript` · `AI` |
 | **[rbac-manager](https://github.com/iiGG-DEV/rbac-manager)** | Identity and Access Management System - auditing, logging, and secure access control | `C#` · `Security` |
 | **[company-portal](https://github.com/iiGG-DEV/company-portal)** | Scalable Business Portal Template - a fast, modern solution for companies | `Next.js` · `Web` |
