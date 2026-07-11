@@ -2,7 +2,7 @@
 
 # Cześć, jestem iiGG 👋
 
-### Buduję cyfrowe systemy, które *działają bez ich udziału.*
+### Buduję firmom cyfrowe systemy, które *działają bez ich udziału.*
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=B8F53A&center=true&vCenter=true&width=650&lines=Automate.+Secure.+Scale.;Building+secure+digital+solutions;Web+/+Automation+/+AI+/+Security" alt="iiGG" />
 
@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/kontakt@iigg.dev-141A2C?style=for-the-badge&logo=gmail&logoColor=B8F53A)](mailto:kontakt@iigg.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-141A2C?style=for-the-badge&logo=linkedin&logoColor=B8F53A)](https://www.linkedin.com/in/dawid-golebiewski)
 [![GitHub](https://img.shields.io/badge/GitHub-141A2C?style=for-the-badge&logo=github&logoColor=B8F53A)](https://github.com/iiGG-DEV)
-[![Discord](https://img.shields.io/badge/Discord-141A2C?style=for-the-badge&logo=discord&logoColor=B8F53A)](https://discord.gg/iiGG)
+[![Discord](https://img.shields.io/badge/Discord-141A2C?style=for-the-badge&logo=discord&logoColor=B8F53A)](https://discord.gg/joseph_goldberg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=iiGG-DEV&color=B8F53A&style=flat-square&label=Wyświetlenia+profilu)
 
