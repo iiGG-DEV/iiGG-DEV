@@ -83,7 +83,10 @@ IT & Security · Web · AI Automations
 
 ## 📫 Contact
 
-Have an idea for a plugin, website, automation, or security audit? Get in touch - I’ll get back to you with a quote and an estimated timeline.
+```
+Have an idea for a plugin, website, automation, or security audit?
+Let’s discuss your needs - I’ll provide a tailored quote and a realistic delivery timeline.
+```
 
 **✉️ [contact@iigg.dev](mailto:contact@iigg.dev)** &nbsp;·&nbsp; **🌐 [iigg.dev](https://iigg.dev)** &nbsp;·&nbsp; **💬 Discord: joseph_goldberg**
 
