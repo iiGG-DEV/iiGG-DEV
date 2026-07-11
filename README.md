@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=B8F53A&center=true&vCenter=true&width=650&lines=Automate.+Secure.+Scale.;Building+secure+digital+solutions;Web+/+Automation+/+AI+/+Security" alt="iiGG" />
 
 **Pomagam firmom automatyzować procesy, integrować AI i dbać o bezpieczeństwo systemów oraz danych.**
-
 <br>
 
 [![Website](https://img.shields.io/badge/iigg.dev-141A2C?style=for-the-badge&logo=firefoxbrowser&logoColor=B8F53A)](https://iigg.dev)
@@ -40,9 +39,9 @@ IT & Security · Web · Automatyzacje AI
 <table>
   <tr>
     <td width="25%" align="center">🌐<br><br><b>Strony i portale firmowe</b><br><sub>Nowoczesne, szybkie i responsywne strony dopasowane do Twojej marki.</sub></td>
-    <td width="25%" align="center">⚙️<br><br><b>Automatyzacje procesów</b><br><sub>Automatyzuję powtarzalne zadania i procesy, oszczędzając Twój czas i pieniądze.</sub></td>
+    <td width="25%" align="center">⚙️<br><br><b>Automatyzacje procesów</b><br><sub>Automatyzuję zadania i procesy, oszczędzając Twój czas i pieniądze.</sub></td>
     <td width="25%" align="center">🧠<br><br><b>Integracje i narzędzia AI</b><br><sub>Wdrażam AI do biznesu - integracje, chatboty, analiza danych i więcej.</sub></td>
-    <td width="25%" align="center">🔐<br><br><b>Audyt dostępu i uprawnień</b><br><sub>Sprawdzam, kto ma dostęp do czego i jak to poprawić. Bezpieczeństwo przede wszystkim.</sub></td>
+    <td width="25%" align="center">🔐<br><br><b>Audyt dostępu i uprawnień</b><br><sub>Sprawdzam, kto ma dostęp do czego. Bezpieczeństwo przede wszystkim.</sub></td>
   </tr>
 </table>
 
@@ -72,7 +71,7 @@ IT & Security · Web · Automatyzacje AI
 
 <sub>🎯 W planach: <b>CISSP</b> · <b>OSCP</b> · <b>AWS Solutions Architect</b> · <b>CKA</b> · <b>Terraform</b></sub>
 
-## 📌 Wybrane projekty
+## 📌 Wybrane projekty (Wkrótce zostaną opublikowane)
 
 | Projekt | Opis | Stack |
 |---|---|---|
@@ -84,10 +83,10 @@ IT & Security · Web · Automatyzacje AI
 
 ## 📫 Kontakt
 
-Masz pomysł na plugin, stronę, automatyzację albo audyt? Napisz - odezwę się z wyceną i terminem.
+Masz pomysł na plugin, stronę, automatyzację albo audyt? Napisz - odezwę się z wyceną i odpowiednim terminem.
 
 **✉️ [kontakt@iigg.dev](mailto:kontakt@iigg.dev)** &nbsp;·&nbsp; **🌐 [iigg.dev](https://iigg.dev)** &nbsp;·&nbsp; **💬 Discord: joseph_goldberg**
 
 <div align="center">
-<sub><code>Automate. Secure. Scale.</code> — iiGG</sub>
+<sub><code>Automate. Secure. Scale.</code> - iiGG</sub>
 </div>
