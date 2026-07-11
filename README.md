@@ -26,7 +26,7 @@
 
 ```bash
 ~/iigg $ whoami
-iiGG — Dawid Gołębiewski · building secure digital solutions
+iiGG · building secure digital solutions
 
 ~/iigg $ cat stack.txt
 IT & Security · Web · Automatyzacje AI
