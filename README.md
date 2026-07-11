@@ -16,7 +16,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-141A2C?style=for-the-badge&logo=github&logoColor=B8F53A)](https://github.com/iiGG-DEV)
 [![Discord](https://img.shields.io/badge/Discord-141A2C?style=for-the-badge&logo=discord&logoColor=B8F53A)](https://discord.gg/joseph_goldberg)
 
-![Profile views](https://komarev.com/ghpvc/?username=iiGG-DEV&color=B8F53A&style=flat-square&label=Wyświetlenia+profilu)
+![Profile views](https://komarev.com/ghpvc/?username=iiGG-DEV&color=brightgreen&style=flat-square&label=Wyświetlenia+profilu)
 
 </div>
 
